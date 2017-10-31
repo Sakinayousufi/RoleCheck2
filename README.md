@@ -1,2 +1,2 @@
 # Download and install this project 
-it is based on zizaco package .
+It is based on zizaco package .
